@@ -31,6 +31,7 @@
   border-radius: 20px;
   padding: 20px;
   font-size: larger;
+  outline: none;
 }
 
 .App-result-container {
